@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1604020078 source:c:\users\template\desktop\faculdade\pim iv\cadastro\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<unistd.h>
-	<conio.h>
-
